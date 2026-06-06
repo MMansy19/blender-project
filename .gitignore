@@ -19,7 +19,6 @@ Thumbs.db
 *.swp
 *.swo
 *~
-.vscode/
 
 # Python
 __pycache__/
@@ -33,12 +32,9 @@ build/
 
 # IDEs
 .idea/
-.vscode/
 *.iml
 
 # Environment
-.env
-.env.local
 
 # Large files (render cache, etc)
 *.exr
@@ -52,3 +48,4 @@ node_modules/
 
 # Never commit local settings
 .claude/settings.local.json
+config.bat
